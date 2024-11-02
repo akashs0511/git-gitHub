@@ -2,5 +2,3 @@ hi this is Devops Training.
 
 and i am testing it now.
 
-Adding the new line.
-
